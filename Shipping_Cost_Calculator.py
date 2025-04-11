@@ -1,5 +1,4 @@
 # Here is a new update by Nicolas Christen
-# Here is another update by Nicolas Christen
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
